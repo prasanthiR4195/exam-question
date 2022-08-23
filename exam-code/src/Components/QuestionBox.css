@@ -1,0 +1,6 @@
+
+.prev_nex_btn {
+    justify-content: space-around;
+    display: flex;
+    margin-top: 50px;
+}

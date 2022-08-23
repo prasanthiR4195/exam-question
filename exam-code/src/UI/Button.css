@@ -1,0 +1,15 @@
+
+ button {
+    border: 0;
+    background: #5f72d9;
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    transition: .5s;
+}
+
+  button:hover {
+    transition: .5s;
+    background: #3c4b9e;
+}
